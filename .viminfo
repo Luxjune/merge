@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1687642349,,"wq"
+|2,0,1687642772,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,18 +25,27 @@
 # Registers:
 
 # File marks:
-'0  1  9  ~/merge/test
-|4,48,1,9,1687642349,"~/merge/test"
+'0  2  6  ~/merge/test
+|4,48,2,6,1687642772,"~/merge/test"
+'1  1  9  ~/merge/test
+|4,49,1,9,1687642349,"~/merge/test"
+'2  1  9  ~/merge/test
+|4,50,1,9,1687642349,"~/merge/test"
 
 # Jumplist (newest first):
+-'  2  6  ~/merge/test
+|4,39,2,6,1687642772,"~/merge/test"
+-'  1  9  ~/merge/test
+|4,39,1,9,1687642746,"~/merge/test"
 -'  1  9  ~/merge/test
 |4,39,1,9,1687642349,"~/merge/test"
 
 # History of marks within files (newest to oldest):
 
 > ~/merge/test
-	*	1687642347	0
-	"	1	9
-	^	1	10
-	.	1	9
+	*	1687642770	0
+	"	2	6
+	^	2	7
+	.	2	7
 	+	1	9
+	+	2	7
